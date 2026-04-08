@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#ffffff"/>
+
+  <!-- Main Brand Text - MANGALAM -->
+  <text x="200" y="100" font-family="Arial, sans-serif" font-size="56" font-weight="bold"
+        fill="#8B0000" text-anchor="middle" letter-spacing="3">MANGALAM</text>
+
+  <!-- Decorative Line -->
+  <line x1="60" y1="130" x2="340" y2="130" stroke="#8B0000" stroke-width="3"/>
+
+  <!-- Tagline - HDPE | PIPES -->
+  <text x="200" y="200" font-family="Arial, sans-serif" font-size="32" font-weight="600"
+        fill="#333333" text-anchor="middle" letter-spacing="2">HDPE | PIPES</text>
+
+  <!-- Small accent elements -->
+  <circle cx="80" cy="150" r="4" fill="#8B0000"/>
+  <circle cx="320" cy="150" r="4" fill="#8B0000"/>
+</svg>
